@@ -1,0 +1,277 @@
+{
+  "page": {
+    "url": "https://apinex.bond/airdrop?tab=quests",
+    "title": "APInex — One API for every model",
+    "body": "Overview\nAPI Keys\nModels & Pricing\nImage & Video\nTools\nAirdrop\nLIVE\nMEGA POT\nRoulette\nRPM\nSubscriptions\nTop up\nPlayground\nResell API\nResources\nDocs\nMEGA POT\n6,850,000\ntokens\ndraw in\n4d 05h 08m\nConnect Telegram +$0.10\nFree one-time bonus\nConnect\nStatus\nBalance:\n$0.00\nabsalutSigmaDimasikTvoiPapa\nbuzanovbima11@gmail.com\nAirdrop\n\nEarly users earn XP by topping up, holding balance, checking in, and using the API. Highest active Pass applies API usage XP boost, daily passive XP, and extra top-up & subscription tokens.\n\nACTIVE BOOST\nNone yet\nBuy a Pass to unlock daily edge\nMain\nPasses\nQuests\nLeaderboard\nXP History\nDAILY CHECK-IN · UTC\nDay 2 claimed\n\nMiss one UTC day and the streak resets to day 1. Your streak multiplies API burn XP and quest rewards (day 1 = ×1.05 … day 7 = ×1.35). Check-in XP itself is a fixed daily amount, not multiplied again.\n\n1\n2\n3\n4\n5\n6\n7\nCLAIMED TODAY\n+40 XP\nBurn & quest bonus ×1.10\nCome back tomorrow\nDaily quests\n\n0/3 claimed · mult ×1.10\n\nRESETS 00:00 UTC\nWarm up\nMake 5 successful API requests today\n0 / 5 · +88 XP\nIN PROGRESS\nTicket stack\nBuy 3 MEGA POT tickets today\n0 / 3 · +220 XP\nIN PROGRESS\nFirst request\nMake 1 successful API request today\n0 / 1 · +55 XP\nIN PROGRESS",
+    "buttons": [
+      {
+        "tag": "a",
+        "text": "APInex on Telegram",
+        "cls": "side-social-btn side-social-tg",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Follow APInex on X",
+        "cls": "side-social-btn side-social-x",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Overview",
+        "cls": "nav-item      ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "API Keys",
+        "cls": "nav-item      ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Models & Pricing",
+        "cls": "nav-item      ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Image & Video",
+        "cls": "nav-item      ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Tools",
+        "cls": "nav-item      ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Airdrop LIVE",
+        "cls": "nav-item is-active  nav-item-airdrop   ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "MEGA POT",
+        "cls": "nav-item    nav-item-jackpot  ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Roulette",
+        "cls": "nav-item     nav-item-roulette ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "RPM",
+        "cls": "nav-item      nav-item-rpm",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Subscriptions",
+        "cls": "nav-item      ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Top up",
+        "cls": "nav-item      ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Playground",
+        "cls": "nav-item      ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Resell API",
+        "cls": "nav-item      ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Resources",
+        "cls": "nav-item nav-item-docs",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Docs",
+        "cls": "nav-item nav-item-docs",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "MEGA POT 6,850,000 tokens draw in 4d 05h 08m",
+        "cls": "topbar-jackpot topbar-event topbar-megapot",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "button",
+        "text": "Connect Telegram +$0.10 Free one-time bonus Connect",
+        "cls": "topbar-tg-offer",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "span",
+        "text": "Connect",
+        "cls": "topbar-tg-btn",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Status",
+        "cls": "topbar-status",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "a",
+        "text": "Balance: $0.00",
+        "cls": "topbar-balance",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "button",
+        "text": "absalutSigmaDimasikTvoiPapa buzanovbima11@gmail.com",
+        "cls": "user-chip user-chip-button topbar-account",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "button",
+        "text": "Main",
+        "cls": "airdrop-tab ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "button",
+        "text": "Passes",
+        "cls": "airdrop-tab ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "button",
+        "text": "Quests",
+        "cls": "airdrop-tab is-active",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "button",
+        "text": "Leaderboard",
+        "cls": "airdrop-tab ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "button",
+        "text": "XP History",
+        "cls": "airdrop-tab ",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "tag": "button",
+        "text": "Come back tomorrow",
+        "cls": "btn btn-secondary",
+        "disabled": true,
+        "visible": true
+      }
+    ]
+  },
+  "api": [
+    {
+      "t": "17:51:20",
+      "m": "GET",
+      "u": "/api/user/me",
+      "s": 200,
+      "body": "{\"user\":{\"id\":\"user_25d97285-c72e-4c31-bbc5-7d2795e37c91\",\"email\":\"buzanovbima11@gmail.com\",\"name\":\"absalutSigmaDimasikTvoiPapa\",\"status\":\"active\",\"balanceTokens\":0,\"authMethod\":\"email\",\"walletAddress\":null,\"skrDomain\":null,\"loginEmail\":\"buzanovbima11@gmail.com\",\"hasPassword\":false,\"googleLinked\":true,\"canBridge\":false,\"hasPurchasedSubscription\":false,\"has_purchased_subscription\":false,\"specialOffer\":{\"isActive\":false,\"discountPercent\":0,\"expiresAt\":null,\"remainingSeconds\":0},\"special_offer\":{\"is_active\":false,\"discount_percent\":0,\"expires_at\":null,\"remaining_seconds\":0}},\"special_offer\":{\"is_"
+    },
+    {
+      "t": "17:51:21",
+      "m": "GET",
+      "u": "/api/user/xp/me",
+      "s": 200,
+      "body": "{\"enabled\":true,\"totalXp\":255,\"rawXp\":255,\"tier\":\"Bronze\",\"season\":\"season_0\",\"lifetimeDepositUsd\":0,\"leaderboardEligible\":false,\"rank\":null,\"rankLabel\":null,\"totalRanked\":101,\"today\":{\"burnXp\":0,\"depositXp\":0,\"holdXp\":0},\"nftBoost\":{\"tier\":null,\"name\":null,\"burnMultiplier\":1,\"holdPassiveXp\":0,\"activeCount\":0},\"copy\":{\"tagline\":\"Spend tokens. Earn XP. Future rewards.\"}}"
+    },
+    {
+      "t": "17:51:21",
+      "m": "GET",
+      "u": "/api/user/xp/quests",
+      "s": 200,
+      "body": "{\"checkin\":{\"dayKey\":\"2026-10-28\",\"checkedInToday\":true,\"currentStreak\":2,\"nextStreak\":2,\"rewardXp\":40,\"claimedXp\":40,\"multiplier\":1.1,\"nextMultiplier\":1.1,\"canClaim\":false},\"daily\":{\"dayKey\":\"2026-10-28\",\"multiplier\":1.1,\"completed\":0,\"claimed\":0,\"total\":3,\"quests\":[{\"key\":\"api_5\",\"title\":\"Warm up\",\"description\":\"Make 5 successful API requests today\",\"baseXp\":80,\"xpPreview\":88,\"target\":5,\"current\":0,\"unit\":\"count\",\"progress\":0,\"completed\":false,\"claimed\":false,\"claimable\":false,\"xpAwarded\":null},{\"key\":\"tickets_3\",\"title\":\"Ticket stack\",\"description\":\"Buy 3 MEGA POT tickets today\",\"baseXp\":20"
+    },
+    {
+      "t": "17:51:21",
+      "m": "GET",
+      "u": "/api/user/nft/shop",
+      "s": 200,
+      "body": "{\"enabled\":true,\"treasury\":\"APiGnAFkxvC3H5iZ2rbpGoaErG2ULzdk8wD3rFQHqfmw\",\"payMethods\":[\"solana\",\"nowpayments\"],\"solanaEnabled\":true,\"nowpaymentsEnabled\":true,\"pricingNote\":\"Each purchase raises this Pass price by +1% of the base (100 mints = +100%).\",\"catalog\":[{\"tier\":\"node\",\"name\":\"Node\",\"rarity\":\"Common\",\"image\":\"/nft/node.jpg\",\"accent\":\"#94a3b8\",\"blurb\":\"Entry pass. Light burn boost and daily passive XP.\",\"priceUsd\":7.25,\"priceCents\":725,\"basePriceUsd\":5,\"basePriceCents\":500,\"priceBumpPct\":45,\"burnMultiplier\":1.15,\"holdPassiveXp\":10,\"topupBonusPct\":5,\"meltXp\":300,\"totalSupply\":3000,\"soldD"
+    },
+    {
+      "t": "17:51:21",
+      "m": "GET",
+      "u": "/api/user/xp/quests",
+      "s": 200,
+      "body": "{\"checkin\":{\"dayKey\":\"2026-10-28\",\"checkedInToday\":true,\"currentStreak\":2,\"nextStreak\":2,\"rewardXp\":40,\"claimedXp\":40,\"multiplier\":1.1,\"nextMultiplier\":1.1,\"canClaim\":false},\"daily\":{\"dayKey\":\"2026-10-28\",\"multiplier\":1.1,\"completed\":0,\"claimed\":0,\"total\":3,\"quests\":[{\"key\":\"api_5\",\"title\":\"Warm up\",\"description\":\"Make 5 successful API requests today\",\"baseXp\":80,\"xpPreview\":88,\"target\":5,\"current\":0,\"unit\":\"count\",\"progress\":0,\"completed\":false,\"claimed\":false,\"claimable\":false,\"xpAwarded\":null},{\"key\":\"tickets_3\",\"title\":\"Ticket stack\",\"description\":\"Buy 3 MEGA POT tickets today\",\"baseXp\":20"
+    },
+    {
+      "t": "17:51:21",
+      "m": "GET",
+      "u": "/api/user/telegram/bonus",
+      "s": 200,
+      "body": "{\"enabled\":true,\"bonusUsd\":0.1,\"bonusTokens\":100000,\"linked\":false,\"claimed\":false,\"configured\":true,\"botUsername\":\"apinexbot\"}"
+    },
+    {
+      "t": "17:51:21",
+      "m": "GET",
+      "u": "/api/user/xp/leaderboard",
+      "s": 200,
+      "body": "{\"enabled\":true,\"minDepositUsd\":10,\"totalRanked\":101,\"entries\":[{\"rank\":1,\"displayName\":\"as…@gmail.com\",\"totalXp\":26035.32610000001,\"tier\":\"Gold\",\"isYou\":false},{\"rank\":2,\"displayName\":\"roisichei.skr\",\"totalXp\":21297.05000000003,\"tier\":\"Gold\",\"isYou\":false},{\"rank\":3,\"displayName\":\"th…@gmail.com\",\"totalXp\":20136.745499999983,\"tier\":\"Gold\",\"isYou\":false},{\"rank\":4,\"displayName\":\"jojo69.skr\",\"totalXp\":17338.44999999997,\"tier\":\"Gold\",\"isYou\":false},{\"rank\":5,\"displayName\":\"ka…@gmail.com\",\"totalXp\":16008.38220000004,\"tier\":\"Gold\",\"isYou\":false},{\"rank\":6,\"displayName\":\"ma…@gmail.com\",\"totalXp\":149"
+    },
+    {
+      "t": "17:51:21",
+      "m": "GET",
+      "u": "/api/user/jackpot/status",
+      "s": 200,
+      "body": "{\"settings\":{\"enabled\":true,\"contributionPercent\":1,\"paidTicketPriceUsd\":1,\"farmTicketApiSpendUsd\":10,\"farmTicketWeeklyLimit\":10,\"consolationTokensPerLosingTicket\":1000000,\"weeklySeedTokens\":5000000,\"minParticipants\":3,\"minTickets\":10,\"drawWeekdayUtc\":0,\"drawHourUtc\":20,\"drawMinuteUtc\":0},\"timezone\":\"UTC\",\"round\":{\"id\":\"jround_a2624bb7-2b4d-4f9a-bdec-fe39b846f9f6\",\"roundId\":\"jround_a2624bb7-2b4d-4f9a-bdec-fe39b846f9f6\",\"roundNo\":11,\"status\":\"open\",\"opensAt\":\"2026-10-25T20:00:00.027Z\",\"drawsAt\":\"2026-11-01T20:00:00.000Z\",\"drawAt\":\"2026-11-01T20:00:00.000Z\",\"closesAt\":\"2026-11-01T20:00:00.000Z\","
+    },
+    {
+      "t": "17:51:26",
+      "m": "GET",
+      "u": "/api/user/me",
+      "s": 200,
+      "body": "{\"user\":{\"id\":\"user_25d97285-c72e-4c31-bbc5-7d2795e37c91\",\"email\":\"buzanovbima11@gmail.com\",\"name\":\"absalutSigmaDimasikTvoiPapa\",\"status\":\"active\",\"balanceTokens\":0,\"authMethod\":\"email\",\"walletAddress\":null,\"skrDomain\":null,\"loginEmail\":\"buzanovbima11@gmail.com\",\"hasPassword\":false,\"googleLinked\":true,\"canBridge\":false,\"hasPurchasedSubscription\":false,\"has_purchased_subscription\":false,\"specialOffer\":{\"isActive\":false,\"discountPercent\":0,\"expiresAt\":null,\"remainingSeconds\":0},\"special_offer\":{\"is_active\":false,\"discount_percent\":0,\"expires_at\":null,\"remaining_seconds\":0}},\"special_offer\":{\"is_"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "last_run": "2026-10-31 20:54",
+  "status": "ok",
+  "duration_sec": 11.5,
+  "clicks": 0,
+  "checkin": false,
+  "quests": 1,
+  "xp_before": 465,
+  "checkin_state": "already",
+  "xp_after": 565,
+  "day_key": "2026-10-31",
+  "claimed_utc_day": "2026-10-31",
+  "email": "buzanovbima11@gmail.com",
+  "tier": "Bronze",
+  "streak": 5,
+  "human_attempt_ts": 1793387206.0804808,
+  "history": [
+    {
+      "t": "2026-10-31 20:54",
+      "status": "ok",
+      "checkin": "already",
+      "xp": 565,
+      "quests": 1
+    },
+    {
+      "t": "2026-10-31 20:49",
+      "status": "need_human",
+      "checkin": "need_human",
+      "xp": 380,
+      "quests": 0
+    },
+    {
+      "t": "2026-10-31 09:18",
+      "status": "logged_out",
+      "checkin": null,
+      "xp": null,
+      "quests": null
+    },
+    {
+      "t": "2026-10-31 09:02",
+      "status": "error: No module named 'concurrent.futures.thread'",
+      "checkin": null,
+      "xp": null,
+      "quests": null
+    },
+    {
+      "t": "2026-10-30 22:21",
+      "status": "ok",
+      "checkin": "already",
+      "xp": 380,
+      "quests": 0
+    },
+    {
+      "t": "2026-10-30 22:16",
+      "status": "need_human",
+      "checkin": "need_human",
+      "xp": 310,
+      "quests": 0
+    },
+    {
+      "t": "2026-10-30 22:12",
+      "status": "need_human",
+      "checkin": "need_human",
+      "xp": 310,
+      "quests": 0
+    }
+  ]
+}

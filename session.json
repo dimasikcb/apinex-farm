@@ -1,0 +1,62 @@
+[
+ {
+  "name": "_ga",
+  "value": "GA1.1.73730690.1793127675",
+  "domain": ".apinex.bond",
+  "path": "/",
+  "expires": 1828029272.673418,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "apinex_user_session",
+  "value": "4fd9325fee18a2b7beeb081993507d74284c1386d51090f88d3eb0a855d0cdf2",
+  "domain": ".apinex.bond",
+  "path": "/",
+  "expires": 1827759061.355731,
+  "httpOnly": true,
+  "secure": true,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "_ym_uid",
+  "value": "1793468950736321826",
+  "domain": ".apinex.bond",
+  "path": "/",
+  "expires": 1825004950,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "_ym_d",
+  "value": "1793468950",
+  "domain": ".apinex.bond",
+  "path": "/",
+  "expires": 1825004950,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "_ym_isad",
+  "value": "2",
+  "domain": ".apinex.bond",
+  "path": "/",
+  "expires": 1793540950,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "_ga_BK4NBJJJRP",
+  "value": "GS2.1.s1793468950$o6$g1$t1793469272$j60$l0$h0",
+  "domain": ".apinex.bond",
+  "path": "/",
+  "expires": 1828029272.722618,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ }
+]

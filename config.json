@@ -1,0 +1,11 @@
+{
+  "url": "https://apinex.bond/airdrop?tab=quests",
+  "headless": true,
+  "locale": "en-US",
+  "timezone": "Europe/Moscow",
+  "page_timeout_ms": 45000,
+  "navigation_wait_ms": 4000,
+  "turnstile_wait_sec": 20,
+  "human_wait_sec": 180,
+  "login_wait_sec": 3600
+}
