@@ -1,20 +1,55 @@
 {
-  "last_run": "2026-11-02 07:36",
+  "last_run": "2026-11-04 14:00",
   "status": "ok",
-  "duration_sec": 16.2,
+  "duration_sec": 12.5,
   "clicks": 0,
   "checkin": false,
   "quests": 0,
-  "xp_before": 785,
+  "xp_before": 1025,
   "checkin_state": "already",
-  "xp_after": 785,
-  "day_key": "2026-11-02",
-  "claimed_utc_day": "2026-11-02",
+  "xp_after": 1025,
+  "day_key": "2026-11-04",
+  "claimed_utc_day": "2026-11-04",
   "email": "buzanovbima11@gmail.com",
-  "tier": "Bronze",
-  "streak": 7,
+  "tier": "Silver",
+  "streak": 9,
   "human_attempt_ts": 1793387206.0804808,
   "history": [
+    {
+      "t": "2026-11-04 14:00",
+      "status": "ok",
+      "checkin": "already",
+      "xp": 1025,
+      "quests": 0
+    },
+    {
+      "t": "2026-11-04 13:55",
+      "status": "need_human",
+      "checkin": "need_human",
+      "xp": 905,
+      "quests": 0
+    },
+    {
+      "t": "2026-11-03 08:03",
+      "status": "ok",
+      "checkin": "already",
+      "xp": 905,
+      "quests": 0
+    },
+    {
+      "t": "2026-11-03 07:57",
+      "status": "need_human",
+      "checkin": "need_human",
+      "xp": 785,
+      "quests": 0
+    },
+    {
+      "t": "2026-11-03 07:19",
+      "status": "error: 'str' object has no attribute 'get'",
+      "checkin": null,
+      "xp": null,
+      "quests": null
+    },
     {
       "t": "2026-11-02 07:36",
       "status": "ok",
