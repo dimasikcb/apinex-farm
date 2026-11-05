@@ -1,20 +1,41 @@
 {
-  "last_run": "2026-11-04 14:00",
+  "last_run": "2026-11-05 07:51",
   "status": "ok",
-  "duration_sec": 12.5,
+  "duration_sec": 13.3,
   "clicks": 0,
   "checkin": false,
   "quests": 0,
-  "xp_before": 1025,
+  "xp_before": 1388,
   "checkin_state": "already",
-  "xp_after": 1025,
-  "day_key": "2026-11-04",
-  "claimed_utc_day": "2026-11-04",
+  "xp_after": 1388,
+  "day_key": "2026-11-05",
+  "claimed_utc_day": "2026-11-05",
   "email": "buzanovbima11@gmail.com",
   "tier": "Silver",
-  "streak": 9,
+  "streak": 10,
   "human_attempt_ts": 1793387206.0804808,
   "history": [
+    {
+      "t": "2026-11-05 07:51",
+      "status": "ok",
+      "checkin": "already",
+      "xp": 1388,
+      "quests": 0
+    },
+    {
+      "t": "2026-11-05 07:49",
+      "status": "need_human",
+      "checkin": "need_human",
+      "xp": 1268,
+      "quests": 0
+    },
+    {
+      "t": "2026-11-05 07:18",
+      "status": "logged_out",
+      "checkin": null,
+      "xp": null,
+      "quests": null
+    },
     {
       "t": "2026-11-04 14:00",
       "status": "ok",
