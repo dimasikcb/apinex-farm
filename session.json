@@ -4,7 +4,7 @@
   "value": "GA1.1.73730690.1793127675",
   "domain": ".apinex.bond",
   "path": "/",
-  "expires": 1828242182.813736,
+  "expires": 1828501034.589762,
   "httpOnly": false,
   "secure": false,
   "sameSite": "Lax"
@@ -40,21 +40,21 @@
   "sameSite": "None"
  },
  {
-  "name": "_ga_BK4NBJJJRP",
-  "value": "GS2.1.s1793681863$o10$g1$t1793682182$j60$l0$h0",
-  "domain": ".apinex.bond",
-  "path": "/",
-  "expires": 1828242182.960703,
-  "httpOnly": false,
-  "secure": false,
-  "sameSite": "Lax"
- },
- {
   "name": "apinex_first_touch_v1",
   "value": "%7B%22capturedAt%22%3A%222026-11-04T10%3A55%3A07.530Z%22%2C%22landingPage%22%3A%22%2Fairdrop%22%2C%22landingQuery%22%3A%22%3Ftab%3Dquests%22%2C%22referrerUrl%22%3A%22%22%2C%22referrerDomain%22%3A%22%22%2C%22utmSource%22%3Anull%2C%22utmMedium%22%3Anull%2C%22utmCampaign%22%3Anull%2C%22utmContent%22%3Anull%2C%22utmTerm%22%3Anull%2C%22channel%22%3A%22Direct%22%7D",
   "domain": ".apinex.bond",
   "path": "/",
   "expires": 1801565707.5336,
+  "httpOnly": false,
+  "secure": false,
+  "sameSite": "Lax"
+ },
+ {
+  "name": "_ga_BK4NBJJJRP",
+  "value": "GS2.1.s1793941034$o11$g0$t1793941034$j60$l0$h0",
+  "domain": ".apinex.bond",
+  "path": "/",
+  "expires": 1828501034.600779,
   "httpOnly": false,
   "secure": false,
   "sameSite": "Lax"
