@@ -1,20 +1,69 @@
 {
-  "last_run": "2026-11-11 16:20",
+  "last_run": "2026-11-12 15:07",
   "status": "ok",
-  "duration_sec": 11.4,
+  "duration_sec": 40.3,
   "clicks": 0,
   "checkin": false,
   "quests": 0,
-  "xp_before": 2108,
+  "xp_before": 2228,
   "checkin_state": "already",
-  "xp_after": 2108,
-  "day_key": "2026-11-11",
-  "claimed_utc_day": "2026-11-11",
+  "xp_after": 2228,
+  "day_key": "2026-11-12",
+  "claimed_utc_day": "2026-11-12",
   "email": "buzanovbima11@gmail.com",
   "tier": "Silver",
-  "streak": 16,
+  "streak": 17,
   "human_attempt_ts": 1793387206.0804808,
   "history": [
+    {
+      "t": "2026-11-12 15:07",
+      "status": "ok",
+      "checkin": "already",
+      "xp": 2228,
+      "quests": 0
+    },
+    {
+      "t": "2026-11-12 08:13",
+      "status": "logged_out",
+      "checkin": null,
+      "xp": null,
+      "quests": null
+    },
+    {
+      "t": "2026-11-12 08:00",
+      "status": "error: 'str' object has no attribute 'get'",
+      "checkin": null,
+      "xp": null,
+      "quests": null
+    },
+    {
+      "t": "2026-11-12 07:54",
+      "status": "need_human",
+      "checkin": "need_human",
+      "xp": 2108,
+      "quests": 0
+    },
+    {
+      "t": "2026-11-12 07:48",
+      "status": "need_human",
+      "checkin": "need_human",
+      "xp": 2108,
+      "quests": 0
+    },
+    {
+      "t": "2026-11-12 07:26",
+      "status": "logged_out",
+      "checkin": null,
+      "xp": null,
+      "quests": null
+    },
+    {
+      "t": "2026-11-12 07:02",
+      "status": "error: 'str' object has no attribute 'get'",
+      "checkin": null,
+      "xp": null,
+      "quests": null
+    },
     {
       "t": "2026-11-11 16:20",
       "status": "ok",
@@ -175,48 +224,6 @@
       "checkin": "already",
       "xp": 565,
       "quests": 1
-    },
-    {
-      "t": "2026-10-31 20:49",
-      "status": "need_human",
-      "checkin": "need_human",
-      "xp": 380,
-      "quests": 0
-    },
-    {
-      "t": "2026-10-31 09:18",
-      "status": "logged_out",
-      "checkin": null,
-      "xp": null,
-      "quests": null
-    },
-    {
-      "t": "2026-10-31 09:02",
-      "status": "error: No module named 'concurrent.futures.thread'",
-      "checkin": null,
-      "xp": null,
-      "quests": null
-    },
-    {
-      "t": "2026-10-30 22:21",
-      "status": "ok",
-      "checkin": "already",
-      "xp": 380,
-      "quests": 0
-    },
-    {
-      "t": "2026-10-30 22:16",
-      "status": "need_human",
-      "checkin": "need_human",
-      "xp": 310,
-      "quests": 0
-    },
-    {
-      "t": "2026-10-30 22:12",
-      "status": "need_human",
-      "checkin": "need_human",
-      "xp": 310,
-      "quests": 0
     }
   ]
 }

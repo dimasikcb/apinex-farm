@@ -4,7 +4,7 @@
   "value": "GA1.1.73730690.1793127675",
   "domain": ".apinex.bond",
   "path": "/",
-  "expires": 1828963241.72641,
+  "expires": 1829045236.09757,
   "httpOnly": false,
   "secure": false,
   "sameSite": "Lax"
@@ -50,11 +50,21 @@
   "sameSite": "Lax"
  },
  {
-  "name": "_ga_BK4NBJJJRP",
-  "value": "GS2.1.s1794402886$o14$g1$t1794403242$j59$l0$h0",
+  "name": "_ym_isad",
+  "value": "2",
   "domain": ".apinex.bond",
   "path": "/",
-  "expires": 1828963242.384081,
+  "expires": 1794528170,
+  "httpOnly": false,
+  "secure": true,
+  "sameSite": "None"
+ },
+ {
+  "name": "_ga_BK4NBJJJRP",
+  "value": "GS2.1.s1794485236$o17$g0$t1794485236$j60$l0$h0",
+  "domain": ".apinex.bond",
+  "path": "/",
+  "expires": 1829045236.09719,
   "httpOnly": false,
   "secure": false,
   "sameSite": "Lax"
